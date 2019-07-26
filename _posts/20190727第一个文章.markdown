@@ -1,0 +1,4 @@
+#学习django笔记
+```
+pip install
+```
